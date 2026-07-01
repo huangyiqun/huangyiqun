@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 This is me
-- Doctor of Theoretical Physics
+- PHD of Theoretical Physics
 - AI infra engineer at BAAI (Beijing Academy of Artificial Intelligence)
