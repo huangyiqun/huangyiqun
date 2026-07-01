@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 This is me
 - PHD in Theoretical Physics
-- AI infra engineer at BAAI (Beijing Academy of Artificial Intelligence)
+- AI infra engineer at BAAI
+  - https://github.com/flagos-ai/FlagGems
