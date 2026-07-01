@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is me
+- Doctor of Theoretical Physics
+- AI infra engineer at BAAI (Beijing Academy of Artificial Intelligence)
